@@ -66,9 +66,7 @@ Model files are stored in the `models/` directory. You can replace them with you
 - Backend logic is in `main.py`.
 - You can add more models or endpoints by editing `main.py` and updating the UI accordingly.
 
-## License
-MIT License
 
 ---
 
-**Athena Analyzer** – AI-Powered Content Verification
+**TYPE SHIT**
