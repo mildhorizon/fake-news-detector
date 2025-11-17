@@ -1,4 +1,4 @@
-# Athena AI Analyzer – Fake News Detection
+# Fake News Detection
 
 A modern web app for AI-powered content verification. Paste news articles, headlines, or statements and analyze them for credibility using multiple machine learning models.
 
