@@ -61,6 +61,10 @@ Just open `index.html` in your browser. Make sure the backend is running at `htt
 ## Model Files
 Model files are stored in the `models/` directory. You can replace them with your own trained models if needed.
 
+## Dataset Link
+1. https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+2. https://www.kaggle.com/datasets/vanshikavmittal/fakeddit-dataset?select=multimodal_only_samples
+   
 ## Customization
 - All frontend logic is in `index.html`.
 - Backend logic is in `main.py`.
