@@ -72,5 +72,3 @@ Model files are stored in the `models/` directory. You can replace them with you
 
 
 ---
-
-**TYPE SHIT**
